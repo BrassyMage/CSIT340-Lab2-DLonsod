@@ -2,7 +2,7 @@ import SectionHeading from "./SectionHeading";
 import SkillTag from "./SkillTag";
 
 function SkillsSection() {
-  const languages = ["HTML", "CSS", "C", "JavaScript, Java"];
+  const languages = ["HTML", "CSS", "C", "JavaScript", "Java"];
   const frameworks = ["React", "Tailwind CSS", "Vite"];
   const tools = ["Git", "GitHub", "VS Code", "MySQL"];
 
